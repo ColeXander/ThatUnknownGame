@@ -1,0 +1,121 @@
+Home Screen:
+    None Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:red:custom:oneline:scale2.8 - - - text_options:red:oneline:scale2.8 - - - text_quit:red:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Play" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:white:custom:oneline:scale2.8 - - - text_options:red:oneline:scale2.8 - - - text_quit:red:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Options" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:red:custom:oneline:scale2.8 - - - text_options:white:oneline:scale2.8 - - - text_quit:red:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Quit" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:red:custom:oneline:scale2.8 - - - text_options:red:oneline:scale2.8 - - - text_quit:white:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+Level Selector [1]:
+    None Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - text_That:blue:oneline:scale2 - - - wall - - - - - wall - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall text_~un:scale1.8:blue - text_kno:scale1.8:blue - text_wn~:scale1.8:blue wall - - text_level:rosy:custom:oneline:scale2.2 - - wall wall wall wall wall wall wall
+        wall - text_game:blue:oneline:scale2 - - - wall - - - - text_selection:rosy:custom:oneline:scale2.2 - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_level1:red:custom:oneline:scale3 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Go back" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - text_That:blue:oneline:scale2 - - - wall - - - - - wall - text_go~:white:custom:scale2 - text_~back:white:custom:oneline:scale2 - wall
+        wall text_~un:scale1.8:blue - text_kno:scale1.8:blue - text_wn~:scale1.8:blue wall - - text_level:rosy:custom:oneline:scale2.2 - - wall wall wall wall wall wall wall
+        wall - text_game:blue:oneline:scale2 - - - wall - - - - text_selection:rosy:custom:oneline:scale2.2 - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_level1:red:custom:oneline:scale3 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Level 1" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - text_That:blue:oneline:scale2 - - - wall - - - - - wall - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall text_~un:scale1.8:blue - text_kno:scale1.8:blue - text_wn~:scale1.8:blue wall - - text_level:rosy:custom:oneline:scale2.2 - - wall wall wall wall wall wall wall
+        wall - text_game:blue:oneline:scale2 - - - wall - - - - text_selection:rosy:custom:oneline:scale2.2 - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_level1:white:custom:oneline:scale3 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
