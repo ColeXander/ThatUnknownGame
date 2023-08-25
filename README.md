@@ -35,8 +35,10 @@ Check out these links of antivirus running our versions through their engine!<br
 **VirusTotal** https://www.virustotal.com/gui/file/85a63ad67b56ace7dff41266b527f4e6c75861f5240c410129e50d02bad61230
 <br>
 **Kaspersky Threat Intelligence Portal** https://opentip.kaspersky.com/85A63AD67B56ACE7DFF41266B527F4E6C75861F5240C410129E50D02BAD61230/results
+<br>
 ***Version: `Alpha 0.2`***<br>
 **VirusTotal** https://www.virustotal.com/gui/file/e401f9b65de0ef8a2b5aa4881999bab2a831a247a4b0846472065971b72e8c74
 <br>
 **Kaspersky** https://opentip.kaspersky.com/E401F9B65DE0EF8A2B5AA4881999BAB2A831A247A4B0846472065971B72E8C74/results
+<br>
 
