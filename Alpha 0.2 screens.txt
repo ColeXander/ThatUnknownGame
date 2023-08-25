@@ -1,0 +1,377 @@
+Home Screen:
+    None Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:red:custom:oneline:scale2.8 - - - text_options:red:oneline:scale2.8 - - - text_quit:red:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Play" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:white:custom:oneline:scale2.8 - - - text_options:red:oneline:scale2.8 - - - text_quit:red:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Options" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:red:custom:oneline:scale2.8 - - - text_options:white:oneline:scale2.8 - - - text_quit:red:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Quit" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_That:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - text_~un:scale2.8:blue - - text_kno:scale2.8:blue - - text_wn~:scale2.8:blue - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_game:blue:oneline:scale4 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - text_play:red:custom:oneline:scale2.8 - - - text_options:red:oneline:scale2.8 - - - text_quit:white:oneline:scale2.8 - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+Level Selector [1]:
+    None Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - text_That:blue:oneline:scale2 - - - wall - - - - - wall - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall text_~un:scale1.8:blue - text_kno:scale1.8:blue - text_wn~:scale1.8:blue wall - - text_level:rosy:custom:oneline:scale2.2 - - wall wall wall wall wall wall wall
+        wall - text_game:blue:oneline:scale2 - - - wall - - - - text_selection:rosy:custom:oneline:scale2.2 - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_level1:red:custom:oneline:scale3 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Go back" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - text_That:blue:oneline:scale2 - - - wall - - - - - wall - text_go~:white:custom:scale2 - text_~back:white:custom:oneline:scale2 - wall
+        wall text_~un:scale1.8:blue - text_kno:scale1.8:blue - text_wn~:scale1.8:blue wall - - text_level:rosy:custom:oneline:scale2.2 - - wall wall wall wall wall wall wall
+        wall - text_game:blue:oneline:scale2 - - - wall - - - - text_selection:rosy:custom:oneline:scale2.2 - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_level1:red:custom:oneline:scale3 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Level 1" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - text_That:blue:oneline:scale2 - - - wall - - - - - wall - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall text_~un:scale1.8:blue - text_kno:scale1.8:blue - text_wn~:scale1.8:blue wall - - text_level:rosy:custom:oneline:scale2.2 - - wall wall wall wall wall wall wall
+        wall - text_game:blue:oneline:scale2 - - - wall - - - - text_selection:rosy:custom:oneline:scale2.2 - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - text_level1:white:custom:oneline:scale3 - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+Options Screen:
+    None Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:white:oneline:scale1>text_levelData:white:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Go Back" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:white:custom:scale2 - text_~back:white:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Up [1]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:white:oneline:scale1>text_up:white:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Up [2]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:white:oneline:scale1>text_up:white:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_rightp:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Left [1]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:white:oneline:scale1>text_left:white:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Left [2]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:white:oneline:scale1>text_left:white:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Down [1]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:white:oneline:scale1>text_down:white:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Down [2]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:white:oneline:scale1>text_down:white:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Right [1]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:white:oneline:scale1>text_right:white:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Right [2]" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:white:oneline:scale1>text_right:white:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Select" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:white:oneline:scale1>text_select:white:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "Full Reset" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:white:oneline:scale1>text_full:white:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "saveData Reset" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:white:oneline:scale1>text_saveData:white:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "levelData Reset" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:white:oneline:scale1>text_levelData:white:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    "logData Reset" Selected:
+        =tile -m=1
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - - - - - - - - - - - - text_go~:red:custom:scale2 - text_~back:red:custom:oneline:scale2 - wall
+        wall - - text_options:blue:custom:oneline:scale3 - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+        wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
+        wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:white:oneline:scale1>text_logData:white:custom:oneline:scale1 - - - - - wall
+        wall - - text_Version:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
+        wall - text_alpha:lime:custom:oneline:scale1 - text_0.2:lime:custom:oneline:scale1 - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall - - - - - - - - - - - - - - - - - wall
+        wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
