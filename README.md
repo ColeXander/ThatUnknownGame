@@ -2,9 +2,22 @@
 Welcome to That Unknown Game!<br>
 Current version: `Alpha 0.2`<br>
 Current translated version: `Alpha 0.2-translate`<br><br>
-*translated versions speak the text selected in the browsers set language*<br><br>
-**Yes there are furries that have contributed to this project, if that bothers you, deal.**<br>
+*translated versions speak the text selected in the browser's current language*<br><br>
+**Current Version: `Alpha 0.2`** [Download](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.2%255D.html/file)
+<br>
+**Current Translation Version: `Alpha 0.2 Translate`** [Download](https://www.mediafire.com/file/gdk9cx175jiiqpc/That_Unknown_Game_%255BAlpha_0.2-translate%255D.html/file)<br>
+# Download Links
+**Version `Alpha 0.2 Translate`**<br>
+[Download Alpha 0.2 Translate](https://www.mediafire.com/file/gdk9cx175jiiqpc/That_Unknown_Game_%255BAlpha_0.2-translate%255D.html/file)
+<br>
+**Version `Alpha 0.2`**<br>
+[Download Alpha 0.2](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.2%255D.html/file)
+<br>
+**Version `Alpha 0.1`**<br>
+[Download Alpha 0.1](https://www.mediafire.com/file/b9rj3w8ymic8fec/That_Unknown_Game_%255BAlpha_0.1%255D.html/file)
 # Credits to ThatUnknownGame
+**Yes there are furries that have contributed to this project, if that bothers you, deal.**
+<br>
 <h3>ColeXander/ColeDatProto/Cole Bohrer</h3>
 https://ko-fi.com/coletheproto
 <br>
