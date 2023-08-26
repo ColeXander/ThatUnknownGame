@@ -1,5 +1,10 @@
 # ThatUnknownGame
-Welcome to That Unknown Game!<br>
+Welcome to That Unknown Game!
+<h6>
+  
+  | [Github](https://github.com/ColeXander/ThatUnknownGame/) | [Website](https://github.com/404) |
+</h6>
+
 **Current version:** |`Alpha 0.2`|<br>
 **Current translated version:** |`Alpha 0.2-translate`|<br><br>
 *translated versions speak the text selected in the browser's current language*<br><br>
