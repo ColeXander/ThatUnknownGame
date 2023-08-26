@@ -2,7 +2,7 @@
 Welcome to That Unknown Game!
 <h6>
   
-  | [Github](https://github.com/ColeXander/ThatUnknownGame/) | [Website](https://github.com/404) |
+  | [Github](https://github.com/ColeXander/ThatUnknownGame/) | [Website](https://colexander.github.io/ThatUnknownGame/) |
 </h6>
 
 **Current version:** |`Alpha 0.2`|<br>
