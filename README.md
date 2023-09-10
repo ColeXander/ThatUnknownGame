@@ -68,4 +68,3 @@ Check out these links of antivirus running our versions through their engine!<br
 
 ***Version: |`Alpha 0.2-translate`|***<br>
 **VirusTotal** https://www.virustotal.com/gui/file/58c7e168c5c15af84e68473bff4d83a90a847c45bd371864a5908179483fe6ad<br>
- <sub><sup><sup><sub>wowi you found ColeXanders email cole.xander.bohrer@gmail.com!</sup></sub></sup></sub>
