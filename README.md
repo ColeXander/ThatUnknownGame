@@ -17,9 +17,7 @@ Welcome to That Unknown Game!
 <br>
 **Version** |`Alpha 0.2`|<br>
 [Download Alpha 0.2](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.2%255D.html/file)
-<br>
-**Version** |`Alpha 0.1`|<br>
-[Download Alpha 0.1](https://www.mediafire.com/file/b9rj3w8ymic8fec/That_Unknown_Game_%255BAlpha_0.1%255D.html/file)
+
 # Credits to ThatUnknownGame
 **Yes there are furries that have contributed to this project, if that bothers you, deal.**
 <br>
@@ -59,9 +57,6 @@ image tester<br>
 
 # Not sure if the file is safe?
 Check out these links of antivirus running our versions through their engine!<br>
-
-***Version: |`Alpha 0.1`|***<br>
-**VirusTotal** https://www.virustotal.com/gui/file/85a63ad67b56ace7dff41266b527f4e6c75861f5240c410129e50d02bad61230<br>
 
 ***Version: |`Alpha 0.2`|***<br>
 **VirusTotal** https://www.virustotal.com/gui/file/e401f9b65de0ef8a2b5aa4881999bab2a831a247a4b0846472065971b72e8c74<br>
