@@ -11,7 +11,7 @@ Welcome to That Unknown Game!
 **Version** |`Alpha 0.3`|<br>
 [Download Alpha 0.3](https://www.mediafire.com/file/baaspgqavkpzjly/That_Unknown_Game_%255BAlpha_0.3%255D.html/file)<br><br>
 **Version** |`Alpha 0.2 Translate`|<br>
-[Download Alpha 0.2 Translate](https://www.mediafire.com/file/gdk9cx175jiiqpc/That_Unknown_Game_%255BAlpha_0.2-translate%255D.html/file)<br>
+[Download Alpha 0.2 Translate](https://www.mediafire.com/file/gdk9cx175jiiqpc/That_Unknown_Game_%255BAlpha_0.2-translate%255D.html/file)<br><br>
 **Version** |`Alpha 0.2`|<br>
 [Download Alpha 0.2](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.2%255D.html/file)<br><br>
 **Version** |`Alpha 0.1`|<br>
