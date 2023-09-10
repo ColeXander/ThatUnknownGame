@@ -5,11 +5,11 @@ Welcome to That Unknown Game!
   | [Github](https://github.com/ColeXander/ThatUnknownGame/) | [Website](https://colexander.github.io/ThatUnknownGame/) |
 </h6>
 
-**Current Version:** |`Alpha 0.3`| [Download](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.3%255D.html/file)<br>
+**Current Version:** |`Alpha 0.3`| [Download](https://github.com/ColeXander/ThatUnknownGame/archive/refs/tags/v0.3-alpha.zip)<br>
 **Current Translation Version:** |`N/A`| [Download](https://github.com/404)<br>
 # Download Links
 **Version** |`Alpha 0.3`|<br>
-[Download Alpha 0.3](https://www.mediafire.com/file/baaspgqavkpzjly/That_Unknown_Game_%255BAlpha_0.3%255D.html/file)<br><br>
+[Download Alpha 0.3](https://github.com/ColeXander/ThatUnknownGame/archive/refs/tags/v0.3-alpha.zip)<br><br>
 # Credits to ThatUnknownGame
 **Yes there are furries that have contributed to this project, if that bothers you, deal.**
 <br>
@@ -45,10 +45,3 @@ https://discordapp.com/users/606968898876735499
 <h4>contributions:</h4>
 main image code debugger<br>
 image tester<br>
-<hr>
-
-# Not sure if the file is safe?
-Check out these links of antivirus running our versions through their engine!<br>
-
-***Version: |`Alpha 0.3`|***<br>
-**VirusTotal** https://www.virustotal.com/gui/file/e57ec028d39a1c2998b46f64976dcf3d286c9d1622b9190ee70465d759ea318b<br>
