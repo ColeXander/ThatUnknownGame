@@ -6,20 +6,15 @@ Welcome to That Unknown Game!
 </h6>
 
 **Current version:** |`Alpha 0.2`|<br>
-**Current translated version:** |`Alpha 0.2-translate`|<br><br>
+**Current translated version:** |`N/A`|<br><br>
 *translated versions speak the text selected in the browser's current language*<br><br>
-**Current Version:** |`Alpha 0.2`| [Download](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.2%255D.html/file)
-<br>
-**Current Translation Version:** |`Alpha 0.2 Translate`| [Download](https://www.mediafire.com/file/gdk9cx175jiiqpc/That_Unknown_Game_%255BAlpha_0.2-translate%255D.html/file)<br>
+**Current Version:** |`Alpha 0.2`| [Download](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.2%255D.html/file)<br>
+**Current Translation Version:** |`N/A`| [Download](https://github.com/404)<br>
 # Download Links
-**Version** |`Alpha 0.2 Translate`|<br>
-[Download Alpha 0.2 Translate](https://www.mediafire.com/file/gdk9cx175jiiqpc/That_Unknown_Game_%255BAlpha_0.2-translate%255D.html/file)
-<br>
 **Version** |`Alpha 0.2`|<br>
 [Download Alpha 0.2](https://www.mediafire.com/file/bfvmqibkvso4vw5/That_Unknown_Game_%255BAlpha_0.2%255D.html/file)
 <br>
-**Version** |`Alpha 0.1`|<br>
-[Download Alpha 0.1](https://www.mediafire.com/file/b9rj3w8ymic8fec/That_Unknown_Game_%255BAlpha_0.1%255D.html/file)
+
 # Credits to ThatUnknownGame
 **Yes there are furries that have contributed to this project, if that bothers you, deal.**
 <br>
@@ -60,12 +55,5 @@ image tester<br>
 # Not sure if the file is safe?
 Check out these links of antivirus running our versions through their engine!<br>
 
-***Version: |`Alpha 0.1`|***<br>
-**VirusTotal** https://www.virustotal.com/gui/file/85a63ad67b56ace7dff41266b527f4e6c75861f5240c410129e50d02bad61230<br>
-
 ***Version: |`Alpha 0.2`|***<br>
-**VirusTotal** https://www.virustotal.com/gui/file/e401f9b65de0ef8a2b5aa4881999bab2a831a247a4b0846472065971b72e8c74<br>
-
-***Version: |`Alpha 0.2-translate`|***<br>
-**VirusTotal** https://www.virustotal.com/gui/file/58c7e168c5c15af84e68473bff4d83a90a847c45bd371864a5908179483fe6ad<br>
- <sub><sup><sup><sub>wowi you found ColeXanders email cole.xander.bohrer@gmail.com!</sup></sub></sup></sub>
+**VirusTotal** https://www.virustotal.com/gui/file/e401f9b65de0ef8a2b5aa4881999bab2a831a247a4b0846472065971b72e8c74
