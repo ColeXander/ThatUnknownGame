@@ -154,7 +154,6 @@ Options Screen:
         wall - - - - - - - - - - - - - - - - - wall
         wall - - - - - - - - - - - - - - - - - wall
         wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
-    (cole is up to here in getting the new renders for a change to the options page)
     "Up [1]" Selected:
         =tile -m=1
         wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
@@ -395,7 +394,7 @@ Sub Image Handler:
             up:
                 =tile -m=1 baba:white:up&square:red:scale0.7/0.3:disp1/0
             down:
-                =tile -m=5 baba:white:down&square:red:scale0.7/0.3:disp1/-4
+                =tile -m=1 baba:white:down&square:red:scale0.7/0.3:disp1/-4
         orange:
             left:
                 =tile -m=1 baba:white:left&square:orange:scale0.3/0.5:disp4/0
@@ -411,18 +410,18 @@ Sub Image Handler:
             right:
                 =tile -m=1 baba:white:right&square:yellow:scale0.3/0.5:disp-2/0
             up:
-                =tile -m=1 baba:white:up&square:scale0.7/0.3:disp1/0
+                =tile -m=1 baba:white:up&square:yellow:scale0.7/0.3:disp1/0
             down:
-                =tile -m=1 baba:white:up&square:scale0.7/0.3:disp1/-4
+                =tile -m=1 baba:white:down&square:yellow:scale0.7/0.3:disp1/-4
         green:
             left:
                 =tile -m=1 baba:white:left&square:green:scale0.3/0.5:disp4/0
             right:
                 =tile -m=1 baba:white:right&square:green:scale0.3/0.5:disp-2/0
             up:
-                =tile -m=1 baba:white:up&square:scale0.7/0.3:disp1/0
+                =tile -m=1 baba:white:up&square:green:scale0.7/0.3:disp1/0
             down:
-                =tile -m=1 baba:white:down&square:scale0.7/0.3:disp1/-4
+                =tile -m=1 baba:white:down&square:green:scale0.7/0.3:disp1/-4
         blue:
             left:
                 =tile -m=1 baba:white:left&square:blue:scale0.3/0.5:disp4/0
@@ -440,4 +439,4 @@ Sub Image Handler:
             up:
                 =tile -m=1 baba:white:up&square:purple:scale0.7/0.3:disp1/0
             down:
-                =tile -m=1 baba:white:dow&square:purple:scale0.7/0.3:disp1/-4
+                =tile -m=1 baba:white:down&square:purple:scale0.7/0.3:disp1/-4

@@ -5,6 +5,11 @@ Welcome to That Unknown Game!
   | [Github](https://github.com/ColeXander/ThatUnknownGame/) | [Website](https://colexander.github.io/ThatUnknownGame/) |
 </h6>
 
+<!--Do not include current development version in version branches-->
+
+**Current Version In Development:** |`Alpha 0.4`| [Download](https://github.com/404)<br>
+<!--Do not include current developemnt version in version branches-->
+
 **Current Version:** |`Alpha 0.3`| [Download](https://github.com/ColeXander/ThatUnknownGame/archive/refs/tags/v0.3-alpha.zip)<br>
 **Current Translation Version:** |`Alpha 0.2 Translate`| [Download](https://github.com/ColeXander/ThatUnknownGame/archive/refs/tags/v0.2-alpha-translate.zip)<br>
 # Download Links
