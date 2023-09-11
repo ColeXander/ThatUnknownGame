@@ -130,7 +130,7 @@ Options Screen:
         wall - - text_keybinds:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - wall
         wall - - text_k1:red:oneline:scale1>text_up:red:oneline:scale1 text_k2:red:oneline:scale1>text_up:red:oneline:scale1 - text_k1:red:oneline:scale1>text_left:red:oneline:scale1 text_k2:red:oneline:scale1>text_left:red:oneline:scale1 - text_k1:red:oneline:scale1>text_down:red:oneline:scale1 text_k2:red:oneline:scale1>text_down:red:oneline:scale1 - text_k1:red:oneline:scale1>text_right:red:oneline:scale1 text_k2:red:oneline:scale1>text_right:red:oneline:scale1 - text_k:red:oneline:scale1>text_select:red:custom:oneline:scale1 - - wall
         wall - text_data:rosy:custom:oneline:scale2 - - - - - - - - - - - - - - - wall
-        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:white:oneline:scale1>text_levelData:white:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
+        wall - - text_reset:red:oneline:scale1>text_full:red:oneline:scale1 - - text_reset:red:oneline:scale1>text_saveData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_levelData:red:custom:oneline:scale1 - - text_reset:red:oneline:scale1>text_logData:red:custom:oneline:scale1 - - - - - wall
         wall - - - - - - - - - - - - - - - - - wall
         wall - - - - - - - - - - - - - - - - - wall
         wall - - - - - - - - - - - - - - - - - wall
@@ -154,6 +154,7 @@ Options Screen:
         wall - - - - - - - - - - - - - - - - - wall
         wall - - - - - - - - - - - - - - - - - wall
         wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
+    (cole is up to here in getting the new renders for a change to the options page)
     "Up [1]" Selected:
         =tile -m=1
         wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
@@ -376,7 +377,6 @@ Options Screen:
         wall - - - - - - - - - - - - - - - - - wall
         wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall wall
 Sub Image Handler:
-    (credit to lucøso for baba character color banner)
     baba [none]:
         left:
             =tile -m=1 baba:white:left
