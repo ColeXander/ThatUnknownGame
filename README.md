@@ -25,7 +25,7 @@ Welcome to That Unknown Game!
 **Yes there are furries that have contributed to this project, if that bothers you, deal.**
 <br>
 <hr>
-<h3>ColeXander/ColeDatProto/Cole Bohrer</h3>
+<h3>ColeXander/ColeDatProto</h3>
 https://ko-fi.com/coletheproto
 <br>
 https://discordapp.com/users/878235474106408970
